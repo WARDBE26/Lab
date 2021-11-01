@@ -1,5 +1,6 @@
 # Ingredients
-- avocado £3
-- lime £0.70
-- salt £1
+- avocado
+- lemon
+- salt
+- pepper
 # Instructions
